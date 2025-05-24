@@ -2,7 +2,7 @@ package com.TiKaiLaMitraille;
 
 import net.runelite.client.config.*;
 
-@ConfigGroup("example")
+@ConfigGroup("tikailamitraille")
 public interface ExampleConfig extends Config
 {
 	@ConfigItem(
